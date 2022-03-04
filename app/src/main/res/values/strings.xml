@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">parcial1</string>
+    <string name="Titulo">Bienvenidos a nuestra aplicacion</string>
+    <string name="Bienvenido">Bienvenidos</string>
+    <string name="envi">Enviar Datos</string>
+    <string name="recibir_datos">Recibir datos</string>
+    <string name="tabs_menu">Tabs/Menu</string>
+    <string name="sensor">sensor de proximidad</string>
+    <string name="acelerometro">acelerometro</string>
+    <string name="acerca">Acerca de app</string>
+    <string name="Titulo1">Raul Geovanni Rivera Lovo</string>
+    <string name="geni">Génesis Scarlet Hernández Hernández</string>
+
+    <string name="comenzamos">iniciar</string>
+    <string name="music">reproductor music</string>
+
+    <string name="regresar">Regresar</string>
+    <string name="titulo2">CONTROLES BASICO</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+
+    <string name="titulo3">DETERMINAR SI ES MAYOR DE EDAD</string>
+    <string name="nombres">Escriba su nombre</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="enviarDato">ENVIAR DATOS</string>
+    <string name="volver">PANTALLA ANTERIOR</string>
+    <string name="siguiente">Regresar</string>
+
+    <string name="Contacto">Contacto</string>
+    <string name="Correo">Correo</string>
+    <string name="Mensaje">Mensaje</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragContacto">Contactos</string>
+    <string name="fragCorreos">Correos</string>
+    <string name="fragMensajes">Mensajes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Titulo4">sensor de proximidad</string>
+    <string name="regresar1">Volver</string>
+    <string name="regresar2">Volver</string>
+    <string name="regresar3">Volver</string>
+    <string name="texto">Sensor Acelerometro</string>
+    <string name="pansito">María del Carmen Rodriguez Martinez</string>
+
+</resources>
